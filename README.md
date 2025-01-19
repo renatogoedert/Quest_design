@@ -3,7 +3,8 @@
 ## My Attempt at a Quest Design
 
 ### Full Content
-- Read the full document: [Quest Design.docx](./Quest%20Design.docx)
+- Read the Story document: [Quest Design.md](./Quest_Design.md)
+- Download the Story DocX document: [Quest Design.docx](./Quest%20Design.docx)
 - Download the full diagram: [quest_design_diagram.drawio.png](./quest_design_diagram.drawio.png)
 
 ### Showing Per Parts
